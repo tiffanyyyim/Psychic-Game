@@ -58,7 +58,6 @@
 			console.log(computerGuess) 
 	//creating a varible to hold our new html. our html now keeps track of the win/lossess/guesses left and guesses so far 
 	var html = 
-	"<h1>The Psychic Game</h1>" +
 	"<p>Enter a letter guess</p>" +
 	"<p>Guess what letter I'm thinking of </p>" +
 	"<p>Wins: " + wins + "</p>" +
